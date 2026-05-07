@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GHUFRAN KING DIJITAL</title>
+
+<style>
+body{
+  margin:0;
+  font-family:Arial;
+  background:#0f172a;
+  color:white;
+}
+
+header{
+  background:#1e293b;
+  text-align:center;
+  padding:25px;
+  font-size:24px;
+  font-weight:bold;
+  color:#38bdf8;
+}
+
+.banner{
+  background:#334155;
+  padding:15px;
+  text-align:center;
+  font-size:14px;
+}
+
+/* LINKS */
+.links{
+  text-align:center;
+  padding:15px;
+}
+
+.link-btn{
+  display:inline-block;
+  margin:5px;
+  padding:10px 15px;
+  background:#38bdf8;
+  color:black;
+  font-weight:bold;
+  border-radius:8px;
+  text-decoration:none;
+}
+
+/* CARDS */
+.container{
+  padding:15px;
+}
+
+.card{
+  background:#1e293b;
+  padding:15px;
+  margin:10px 0;
+  border-radius:10px;
+  border:1px solid #334155;
+}
+
+.title{
+  font-size:18px;
+  color:#38bdf8;
+  font-weight:bold;
+}
+
+.price{
+  color:#22c55e;
+  font-weight:bold;
+}
+
+/* WHATSAPP BUTTON */
+.btn{
+  background:#22c55e;
+  color:black;
+  padding:8px 12px;
+  border:none;
+  border-radius:6px;
+  font-weight:bold;
+  cursor:pointer;
+  text-decoration:none;
+  display:inline-block;
+}
+
+/* FOOTER */
+footer{
+  background:#1e293b;
+  text-align:center;
+  padding:15px;
+  font-size:13px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+🚀 GHUFRAN KING DIJITAL
+</header>
+
+<div class="banner">
+⚡ Fast Digital Services | Trusted Online Business Platform ⚡
+</div>
+
+<!-- GROUP + CHANNEL -->
+<div class="links">
+
+<a class="link-btn" href="https://chat.whatsapp.com/ILnfCKf2VtE9K9VUn12yH1" target="_blank">
+🪀 WhatsApp Group
+</a>
+
+<a class="link-btn" href="https://whatsapp.com/channel/0029VbBd88qCXC3Qgt0Lzz0e" target="_blank">
+📢 WhatsApp Channel
+</a>
+
+</div>
+
+<div class="container">
+
+<!-- SERVICE 1 -->
+<div class="card">
+<div class="title">📱 Virtual Number Service</div>
+<p>Secure number for verification</p>
+<p class="price">400 PKR</p>
+
+<a class="btn"
+href="https://wa.me/923113106280?text=Hello%20I%20want%20Virtual%20Number%20Service"
+target="_blank">
+Order on WhatsApp
+</a>
+</div>
+
+<!-- SERVICE 2 -->
+<div class="card">
+<div class="title">✂️ CapCut Premium</div>
+<p>No watermark + pro tools</p>
+<p class="price">999 PKR</p>
+
+<a class="btn"
+href="https://wa.me/923113106280?text=I%20want%20CapCut%20Premium%20Service"
+target="_blank">
+Order on WhatsApp
+</a>
+</div>
+
+<!-- SERVICE 3 -->
+<div class="card">
+<div class="title">▶️ YouTube Growth</div>
+<p>Watch time + engagement boost</p>
+<p class="price">1500 PKR</p>
+
+<a class="btn"
+href="https://wa.me/923113106280?text=I%20want%20YouTube%20Growth%20Service"
+target="_blank">
+Order on WhatsApp
+</a>
+</div>
+
+<!-- SERVICE 4 -->
+<div class="card">
+<div class="title">👥 Social Media Followers</div>
+<p>Instagram / TikTok / YouTube</p>
+<p class="price">1000 PKR</p>
+
+<a class="btn"
+href="https://wa.me/923113106280?text=I%20want%20Social%20Media%20Followers"
+target="_blank">
+Order on WhatsApp
+</a>
+</div>
+
+<!-- SERVICE 5 -->
+<div class="card">
+<div class="title">📚 Digital Courses</div>
+<p>Online earning training bundle</p>
+<p class="price">1000 PKR</p>
+
+<a class="btn"
+href="https://wa.me/923113106280?text=I%20want%20Digital%20Courses"
+target="_blank">
+Order on WhatsApp
+</a>
+</div>
+
+</div>
+
+<footer>
+📩 Contact: 923113106280 | 923138066389 <br>
+⚡ Powered by GHUFRAN KING DIJITAL
+</footer>
+
+</body>
+</html>
